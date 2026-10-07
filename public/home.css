@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&family=Playwrite+CU:wght@100..400&display=swap');
+h3{ 
+    /* font-family: "Playwrite CU", cursive; */
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: aqua;
+}
+.card:hover{
+    box-shadow: 10px 10px 10px grey;
+    transition: 1s;
+    cursor: pointer;
+
+}
